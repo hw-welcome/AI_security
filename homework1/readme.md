@@ -14,17 +14,17 @@
 
 ## 测试结果
 
-![result](./data/ho1.png)
+![result](https://cdn.jsdelivr.net/gh/hw-welcome/AI_security@master/homework1/data//ho1.png)
 
 从测试结果来看，ResNet的抗噪能力比较一般，只需要加20%的高斯噪音就能使模型几乎失效。
 
 为了给读者更好的直观，我们列举不同加噪比例alpha下的图片。
 
-alpha = 0.1: ![](./data/01.png)
+alpha = 0.1: ![](https://cdn.jsdelivr.net/gh/hw-welcome/AI_security@master/homework1/data//01.png)
 
-alpha = 0.2: ![](./data/02.png)
+alpha = 0.2: ![](https://cdn.jsdelivr.net/gh/hw-welcome/AI_security@master/homework1/data//02.png)
 
-alpha = 0.3: ![](./data/03.png)
+alpha = 0.3: ![](https://cdn.jsdelivr.net/gh/hw-welcome/AI_security@master/homework1/data//03.png)
 
 
 
